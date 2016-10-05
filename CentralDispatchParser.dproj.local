@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.646,=C:\Users\RT\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.447,C:\Users\RT\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\RT\Desktop\Central Dispatch Parser\uMain.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.600,C:\Users\RT\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\RT\Desktop\Central Dispatch Parser\CentralDispatchParser.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.447,C:\Users\RT\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\RT\Desktop\Central Dispatch Parser\uMain.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
