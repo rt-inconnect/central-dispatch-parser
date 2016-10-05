@@ -4,13 +4,14 @@ interface
 
 uses
   Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
-  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, ShellAPI;
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, ShellAPI, Vcl.ExtCtrls;
 
 type
   TfmMain = class(TForm)
     OpenDialog: TOpenDialog;
-    Button: TButton;
     Memo: TMemo;
+    pHeader: TPanel;
+    Button: TButton;
     procedure ButtonClick(Sender: TObject);
   private
     { Private declarations }
@@ -33,12 +34,12 @@ begin
   if (OpenDialog.Execute) then
   begin
     filename := ExtractFilePath(String(OpenDialog.FileName))+ExtractFileName(String(OpenDialog.FileName));
-    wPath := '"' + filename + '" "' + 'out"';
+    wPath := '"' + filename + '" "' + ExtractFilePath(Application.ExeName) + 'out.txt"';
     pPath := PWideChar(wPath);
-    wExe := '"' + ExtractFilePath(Application.ExeName) + 'pdftohtml.exe"';
+    wExe := '"' + ExtractFilePath(Application.ExeName) + 'pdftotext.exe"';
     pExe := PWideChar(wExe);
-    Memo.Lines.Add(wExe);
-    filename := ShellExecute(0, 'open', pExe, pPath, nil, SW_HIDE).ToString;
+    ShellExecute(0, 'open', pExe, pPath, nil, SW_HIDE);
+    Memo.Lines.LoadFromFile('out.txt');
   end;
 end;
 

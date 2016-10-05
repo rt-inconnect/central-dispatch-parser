@@ -13,21 +13,34 @@ object fmMain: TfmMain
   OldCreateOrder = False
   PixelsPerInch = 96
   TextHeight = 13
-  object Button: TButton
-    Left = 8
-    Top = 8
-    Width = 75
-    Height = 25
-    Caption = 'Open...'
-    TabOrder = 0
-    OnClick = ButtonClick
-  end
   object Memo: TMemo
-    Left = 8
-    Top = 39
-    Width = 619
-    Height = 253
+    Left = 0
+    Top = 41
+    Width = 635
+    Height = 259
+    Align = alClient
+    TabOrder = 0
+    ExplicitLeft = 8
+    ExplicitTop = 71
+    ExplicitWidth = 619
+    ExplicitHeight = 253
+  end
+  object pHeader: TPanel
+    Left = 0
+    Top = 0
+    Width = 635
+    Height = 41
+    Align = alTop
     TabOrder = 1
+    object Button: TButton
+      Left = 14
+      Top = 9
+      Width = 75
+      Height = 25
+      Caption = 'Open...'
+      TabOrder = 0
+      OnClick = ButtonClick
+    end
   end
   object OpenDialog: TOpenDialog
     Left = 600
