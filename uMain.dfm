@@ -1,9 +1,10 @@
 object fmMain: TfmMain
   Left = 0
   Top = 0
+  BorderStyle = bsDialog
   Caption = 'Central Dispatch Parser'
-  ClientHeight = 40
-  ClientWidth = 116
+  ClientHeight = 50
+  ClientWidth = 297
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
@@ -11,20 +12,24 @@ object fmMain: TfmMain
   Font.Name = 'Tahoma'
   Font.Style = []
   OldCreateOrder = False
+  Position = poScreenCenter
   PixelsPerInch = 96
   TextHeight = 13
   object pHeader: TPanel
     Left = 0
     Top = 0
-    Width = 116
-    Height = 40
+    Width = 297
+    Height = 50
     Align = alClient
     TabOrder = 0
+    ExplicitWidth = 116
+    ExplicitHeight = 40
     object Button: TButton
       Left = 14
       Top = 9
-      Width = 75
+      Width = 259
       Height = 25
+      Align = alCustom
       Caption = 'Open...'
       TabOrder = 0
       OnClick = ButtonClick

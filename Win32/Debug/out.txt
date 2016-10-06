@@ -1,56 +1,65 @@
 CARRIER INFORMATION
-Carrier: Tash Express LLC 1150 Airport Rd , Apt # 145 destin, FL 32541 MC Number: 715356 Driver: baha Driver Phone: 8506878088
+Carrier: Tash Express LLC 1150 Airport Rd , Apt # 145 destin, FL 32541 MC Number: 715356 Driver: Baha Driver Phone: 8506878088
 
-Order ID: nyc 45117
+Order ID: nyc 47147
 Contact: Oxana Phone: 850-642-3249 Phone 2: (850) 687-8088 Fax: (888) 680-2486
 
 ORDER INFORMATION
 
-Dispatch Date: 07/15/2016
+Dispatch Date: 09/16/2016
 
-Price Listed: $600.00
+Price Listed: $800.00
 
-Pickup Estimated: 07/19/2016
+Pickup Estimated: 09/16/2016
 
-Total Payment to Carrier: $600.00
+Total Payment to Carrier: $800.00
 
-Delivery Estimated: 07/22/2016
+Delivery Estimated: 09/22/2016
 
 On Delivery to Carrier: None
 
 Ship Via: Open
 
-Company* owes Carrier: $600.00
+Company* owes Carrier: $800.00
 
 Condition: Operable
 
-Schumacher Cargo Logistics Inc. agrees to pay Tash Express LLC $600.00 within 5 business days of delivery. Payment will be made with Company Check. *The company (broker, dealer, auction, rental company, etc.) that originated this dispatch sheet.
+Schumacher Cargo Logistics Inc. agrees to pay Tash Express LLC $800.00 within 5 business days of delivery. Payment will be made with Company Check. *The company (broker, dealer, auction, rental company, etc.) that originated this dispatch sheet.
 
 Dispatch Sheet
 Schumacher Cargo Logistics Inc.
-550 W 135th St gardena, CA 90248 Co. Phone: (562) 283-9366 AFTERHOURS Dispatch Info Contact: Hugo Velasco, Krystal Maciel, Jonathan Atangan Phone: EMAIL CNTACT ON POST Fax: (310) 400-8233
+550 W 135th St gardena, CA 90248 Co. Phone: (562) 283-9366 AFTERHOURS Dispatch Info Contact: CONTACT EMAIL ON POST FOR DISPATCH Phone: 0000000000 Fax: (310) 400-8233
 
-VEHICLE INFORMATION 1 1967 ford mustang Type: Car Color: Plate: VIN: Lot #:
+VEHICLE INFORMATION
 
-Total Vehicles: 1
+1 1979 chevrolet corvette Type: Car Color: Plate: VIN: Lot #:
+
+2 1966 ford mustang
+
+Type: Car Color: Plate: VIN: Lot #:
+
+Total Vehicles: 2
 
 PICKUP INFORMATION
-Name: JIM LEWIS (MAR KEE AUTO SALES) 1528 NORTH GRAND enid, OK 73701 Phone: 580-237-6550
+Name: RONNIE WATSON (DREAM CAR USA) 211 HWY 305 athens, TN 37303 Phone: 423-506-8987
 
 DELIVERY INFORMATION
-Name: ARPAD / REF# NYC 45117 (SCHUMACHER CARGO LOGISTICS INC) 1027 NEWARK AVENUE elizabeth, NJ 07208 Phone: 908-469-4444
+Name: ARPAD / REF# NYC 47147 (SCHUMACHER CARGO LOGISTICS INC) 1027 NEWARK AVENUE elizabeth, NJ 07208 Phone: 908-469-4444
 
-DISPATCH INSTRUCTIONS hugo@sclusa.com 310-400-8232
-This should be picked up within 2 days of 07/19/2016. This should be delivered within 2 days of 07/22/2016.
+DISPATCH INSTRUCTIONS 1979 VETTE VIN # 1Z8789S445749
+1966 MUSTANG VIN# 6T07C223239 This should be picked up within 2 days of 09/16/2016. This should be delivered within 2 days of 09/22/2016.
 
 CONTRACT TERMS ***PLEASE READ CAREFULLY***
-**** DELIVERY TO SCHUMACHER CARGO WAREHOUSE MONDAY - FRIDAY / 8AM - 4PM ONLY - NO EXCEPTIONS **** **** DETAILED INSPECTION OF VEHICLE (INCLUDING UNDERCARRIAGE) MUST BE PERFORMED UPON COLLECTION OF VEHICLE **** **** DELIVERY WAREHOUSE *WILL NOT* FORKLIFT ANY VEHICLES FROM TRAILER **** **** UNITS ARE *NOT* TO BE DRIVEN UNLESS DISPATCHED AS DRIVE AWAY **** **** MILEAGE UPON COLLECTION AND DELIVERY MUST BE RECORDED **** **** PLEASE BE SURE TO CONTACT PICKUP LOCATION IF THERE ARE ANY DELAYS OR CANCELLATIONS ON PICKUP ****
-Thank you for accepting our dispatch notice for the attached domestic pickup. We operate a professional structure around our international shipping service and your adherence to the following criteria will help us maintain that level of customer service which our clients expect:
-1. Please confirm receipt of notice to your Schumacher Cargo dispatcher. 2. We require you to make contact with the client within 24 hrs of receiving the order. 3. Please introduce yourself and identify to the client that you are aware of the situation and are now working on our behalf 4. Identify the make model and suggest times that may suit for collection 5. Inform the client that you will contact them 24 hrs prior to collection once you arrange a time that suits both parties 6. Inform them of an appropriate number of days that it may take to get to them for pick up. 7. If the pickup is urgent, please maintain contact and update client on our behalf. 8. We need good drivers all the time/ your attention to customer service will lead to more work for everyone!
-PLEASE GIVE THE CUSTOMER AT LEAST A 24 HOUR NOTICE FOR PICKUP AND DELIVERY. PLEASE DO A THOROUGH INSPECTION OF THE VEHICLE ON PICKUP.
+****IMPORTANT NOTICE**** PLEASE BE ADVISED THAT ALL SCHUMACHER CARGO WAREHOUSES WILL BE CLOSED AT 1PM ON FRIDAY SEPTEMBER 2ND AND ALL DAY MONDAY SEPTEMBER 5TH. NO DELIVERIES WILL BE ACCEPTED AT THIS TIME. ~~~ NO EXCEPTIONS~~~~ ********************************
 
-Authority to transport this vehicle is hereby assigned to Tash Express LLC. By accepting this agreement Tash Express LLC certifies that it has the proper legal authority and insurance to carry the above described vehicle, only on trucks owned by Tash Express LLC. All invoices must be accompanied by a signed delivery receipt and faxed to Schumacher Cargo Logistics Inc.. The above agreed upon price includes any and all surcharges unless otherwise agreed to by both Tash Express LLC and Schumacher Cargo Logistics Inc..
+**** DELIVERY TO SCHUMACHER CARGO WAREHOUSE MONDAY - FRIDAY / 8AM - 4PM ONLY - NO EXCEPTIONS **** **** DETAILED INSPECTION OF VEHICLE (INCLUDING UNDERCARRIAGE) MUST BE PERFORMED UPON COLLECTION OF VEHICLE **** **** DELIVERY WAREHOUSE *WILL NOT* FORKLIFT ANY VEHICLES FROM TRAILER **** **** UNITS ARE *NOT* TO BE DRIVEN UNLESS DISPATCHED AS DRIVE AWAY **** **** MILEAGE UPON COLLECTION AND DELIVERY MUST BE RECORDED **** **** PLEASE BE SURE TO CONTACT PICKUP LOCATION IF THERE ARE ANY DELAYS OR CANCELLATIONS ON PICKUP **** **** PROOF OF INSURANCE & W9 MUST BE ON FILE WITH SCHUMACHER CARGO FOR US TO BE ABLE TO PROCESS AND SEND PAYMENT ***
+
+Thank you for accepting our dispatch notice for the attached domestic pickup. We operate a professional structure around our international shipping service and your adherence to the following criteria will help us maintain that level of customer service which our clients expect:
+
+1. Please confirm receipt of notice to your Schumacher Cargo dispatcher. 2. We require you to make contact with the client within 24 hrs of receiving the order. 3. Please introduce yourself and identify to the client that you are aware of the situation and are now working on our behalf 4. Identify the make model and suggest times that may suit for collection 5. Inform the client that you will contact them 24 hrs prior to collection once you arrange a time that suits both parties 6. Inform them of an appropriate number of days that it may take to get to them for pick up. 7. If the pickup is urgent, please maintain contact and update client on our behalf. 8. We need good drivers all the time/ your attention to customer service will lead to more work for everyone!
+PLEASE GIVE THE CUSTOMER AT LEAST A 24 HOUR NOTICE FOR PICKUP AND DELIVERY. PLEASE DO A THOROUGH INSPECTION OF THE VEHICLE ON PICKUP.
+Authority to transport this vehicle is hereby assigned to Tash Express LLC. By accepting this agreement Tash Express LLC certifies that it has the proper legal authority and insurance to carry the above described vehicle, only on trucks owned by Tash Express LLC. All invoices must be accompanied by a signed delivery receipt and faxed to Schumacher Cargo Logistics Inc.. The above agreed upon price includes any and all surcharges unless otherwise agreed to by both Tash Express LLC and Schumacher Cargo Logistics Inc..
 The agreement between Tash Express LLC and Schumacher Cargo Logistics Inc., as described in this dispatch sheet, is solely between Tash Express LLC and Schumacher Cargo Logistics Inc.. Dealertrack CentralDispatch, Inc. is not a party to such agreement, has no obligation under such agreement and expressly disclaims all liability whatsoever arising out of, or in connection with such agreement.
-CD reference # 12042879
+CD reference # 12477584
 
 
